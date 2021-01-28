@@ -9,15 +9,15 @@ remote_theme: "mmistakes/jekyll-theme-basically-basic"
 
 # Site Settings
 lang: en-US
-title: Basically Basic
-email: dugan.nash@mailinator.com
+title: PLACEHOLDER
+email: PLACEHOLDER@mailinator.com
 description: "Your new default Jekyll theme"
 author:
-  name: Dugan Nash
-  twitter: Towlette_Pettetucci
+  name: PLACE HOLDER
+  twitter: PLACEHOLDER
   picture: /assets/images/johndoe.png
-twitter_username: Towlette_Pettetucci
-github_username: Towlette_Pettetucci
+twitter_username: PLACEHOLDER
+github_username: PLACEHOLDER
 logo: /assets/icons/basically-basic-logo-light.svg
 google_analytics: 
 disqus:

@@ -20,8 +20,6 @@ twitter_username: PLACEHOLDER
 github_username: PLACEHOLDER
 logo: /assets/icons/basically-basic-logo-light.svg
 google_analytics: 
-disqus:
-  shortname: basically-basic-theme
 search: true
 search_full_content: true
 search_provider: lunr
